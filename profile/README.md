@@ -11,7 +11,7 @@
 ---
 <div align="center">
   
-## Innovation | Technology | Convenience
+
 
 </div>
 
@@ -73,4 +73,5 @@ Roma Mart is more than just a store—we’re building the future, one project a
 > For employment, collaboration, or partnership opportunities, please reach out via the contact info above.*
 
 ---
+
 
