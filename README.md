@@ -1,10 +1,19 @@
-# Innovation & Technology at Roma Mart
+---
+<div align="center">
+  
+# **Welcome to Roma Mart’s Technology Hub**
 
-![Roma Mart Logo or Banner Here](https://placehold.co/600x120?text=Roma+Mart+Innovation)
+![Roma Mart Logo or Banner Here](https://github.com/roma-mart/.github/blob/main/assets/cropped_banner.png)
+</div>
+
+
 
 ---
+<div align="center">
+  
+## Innovation | Technology | Convenience
 
-## **Welcome to Roma Mart’s Technology Hub**
+</div>
 
 Roma Mart is a family-run convenience store committed to bringing innovation to the heart of our community.
 Here, we explore new ways to use technology—data, analytics, and smart software—to serve our customers better and modernize our operations.
